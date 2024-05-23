@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/personality-disorder---primary.py
+inputModule3:
+  class: File
+  path: python/other-personality-disorder---primary.py
+inputModule4:
+  class: File
+  path: python/compulsive-personality-disorder---primary.py
+inputModule5:
+  class: File
+  path: python/histrionic-personality-disorder---primary.py
+inputModule6:
+  class: File
+  path: python/schizoid-personality-disorder---primary.py
+inputModule7:
+  class: File
+  path: python/xorganic-personality-disorder---primary.py
+inputModule8:
+  class: File
+  path: python/personality-disorder-avoidant---primary.py
+inputModule9:
+  class: File
+  path: python/affective-personality-disorder---primary.py
+inputModule10:
+  class: File
+  path: python/paranoid-personality-disorder---primary.py
+inputModule11:
+  class: File
+  path: python/psychopathy-personality-disorder---primary.py
+inputModule12:
+  class: File
+  path: python/personality---primary.py
+inputModule13:
+  class: File
+  path: python/personality-disorder-unspecified---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
